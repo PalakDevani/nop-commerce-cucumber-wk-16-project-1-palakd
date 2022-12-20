@@ -1,0 +1,46 @@
+2022-12-20 20:44:35 INFO  HomePage :91 - Click on 'Computers' tab <br>
+2022-12-20 20:44:35 INFO  ComputerPage :40 - click On SubMenu [[ChromeDriver: chrome on WINDOWS (bf2c7f075d819ce569f9521bbb2501bd)] -> xpath: //div[@class='category-grid sub-category-grid']//h2/a]
+2022-12-20 20:44:35 INFO  DesktopsPage :44 - Get pageTitle text Desktops<br>
+2022-12-20 20:44:38 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 20:44:39 INFO  LoginPage :49 - Enter email prime123@gmail.com to email field <br>
+2022-12-20 20:44:39 INFO  LoginPage :54 - Enter password prime123 to password field <br>
+2022-12-20 20:44:39 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 20:44:42 INFO  HomePage :61 - Clicking on register link Register<br>
+2022-12-20 20:44:42 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 20:44:42 INFO  RegisterPage :138 - Click on 'REGISTER' button<br>
+2022-12-20 20:44:42 INFO  RegisterPage :138 - Click on 'REGISTER' button<br>
+2022-12-20 20:44:43 INFO  RegisterPage :138 - Click on 'REGISTER' button<br>
+2022-12-20 20:44:43 INFO  RegisterPage :138 - Click on 'REGISTER' button<br>
+2022-12-20 20:44:43 INFO  RegisterPage :138 - Click on 'REGISTER' button<br>
+2022-12-20 20:46:27 INFO  HomePage :91 - Click on 'Computers' tab <br>
+2022-12-20 20:46:28 INFO  ComputerPage :32 - Get PageTitle Text[[ChromeDriver: chrome on WINDOWS (b546e8f0ec1d449c6f2d3ed55f484c50)] -> css selector: div[class='page-title'] h1]
+2022-12-20 20:46:31 INFO  HomePage :91 - Click on 'Computers' tab <br>
+2022-12-20 20:46:32 INFO  ComputerPage :40 - click On SubMenu [[ChromeDriver: chrome on WINDOWS (eb6a4a7a9b7e8ab9d21dbe1275354937)] -> xpath: //div[@class='category-grid sub-category-grid']//h2/a]
+2022-12-20 20:46:32 INFO  DesktopsPage :44 - Get pageTitle text Desktops<br>
+2022-12-20 20:46:35 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 20:46:35 INFO  LoginPage :43 - Getting welcome text Welcome, Please Sign In!<br>
+2022-12-20 20:46:38 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 20:46:39 INFO  LoginPage :49 - Enter email prime123@gmail.com to email field <br>
+2022-12-20 20:46:39 INFO  LoginPage :54 - Enter password prime123 to password field <br>
+2022-12-20 20:46:39 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 20:46:42 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 20:46:43 INFO  LoginPage :49 - Enter email devani123@gmail.com to email field <br>
+2022-12-20 20:46:43 INFO  LoginPage :54 - Enter password devani123 to password field <br>
+2022-12-20 20:46:44 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 20:47:07 INFO  HomePage :50 - Clicking on login link Log in<br>
+2022-12-20 20:47:08 INFO  LoginPage :49 - Enter email devani123@gmail.com to email field <br>
+2022-12-20 20:47:08 INFO  LoginPage :54 - Enter password devani123 to password field <br>
+2022-12-20 20:47:08 INFO  LoginPage :59 - Clicking on Login Button <br>
+2022-12-20 20:47:11 INFO  HomePage :61 - Clicking on register link Register<br>
+2022-12-20 20:47:12 INFO  RegisterPage :82 - Get registerText : Register<br>
+2022-12-20 20:47:15 INFO  HomePage :61 - Clicking on register link Register<br>
+2022-12-20 20:47:16 INFO  RegisterPage :129 - Click on 'REGISTER' button<br>
+2022-12-20 20:47:16 INFO  RegisterPage :138 - Click on 'REGISTER' button<br>
+2022-12-20 20:47:16 INFO  RegisterPage :138 - Click on 'REGISTER' button<br>
+2022-12-20 20:47:16 INFO  RegisterPage :138 - Click on 'REGISTER' button<br>
+2022-12-20 20:47:16 INFO  RegisterPage :138 - Click on 'REGISTER' button<br>
+2022-12-20 20:47:16 INFO  RegisterPage :138 - Click on 'REGISTER' button<br>
+2022-12-20 20:47:19 INFO  HomePage :61 - Clicking on register link Register<br>
+2022-12-20 20:47:19 INFO  RegisterPage :89 - Select 'Female' radio button<br>
+2022-12-20 20:47:19 INFO  RegisterPage :98 - Enter Firstname : 'Daya' to firstName field<br>
+2022-12-20 20:47:19 INFO  RegisterPage :103 - Enter Lastname : 'Patel' to lastName field<br>
